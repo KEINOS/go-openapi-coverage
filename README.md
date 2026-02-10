@@ -73,7 +73,7 @@ Optionally, a detailed list of missing operations can be generated.
 ## Installation
 
 ```sh
-go install github.com/yourname/go-openapi-coverage/cmd/openapi-coverage@latest
+go install github.com/KEINOS/go-openapi-coverage/cmd/openapi-coverage@latest
 ```
 
 ## Usage
